@@ -18,6 +18,8 @@ jobs:
         with:
           github_user_name: anthonyreynaDev
           outputs: dist/github-contribution-grid-snake.svg
+          color_snake: "#BD93F9" # color de la serpiente (violeta brillante)
+          color_dots: "#282A36,#44475A,#6272A4,#8BE9FD,#FF79C6" # colores de los cuadritos (Dracula)
 
       - name: Push snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3
