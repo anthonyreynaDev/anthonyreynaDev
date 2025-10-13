@@ -49,14 +49,12 @@ Apasionado desarrollador Web Front-End que le gusta crear páginas Web con una b
 - [TikTok](https://www.tiktok.com/@anthony.webdev?is_from_webapp=1&sender_device=pc)
 - [Email]()
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
 ###
 
 <br clear="both">
 
 ![Snake animation](https://github.com/anthonyreynaDev/anthonyreynaDev/blob/output/github-contribution-grid-snake.svg)
 
-
 ###
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
