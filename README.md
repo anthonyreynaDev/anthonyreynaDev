@@ -1,5 +1,20 @@
 # Hola! 👋 Soy Anthony Reyna, estudiante de Ing. de Software
 
+## 👀 Un poco más sobre mi...
+
+Apasionado desarrollador Web Front-End que le gusta crear páginas Web con una buena interfáz gráfica, pueden suscribirse a mi canal de Youtube [AnthonyDev](www.youtube.com/@anthony.webdev) para poder crecer y mostrar mis conocimientos.
+
+
+
+
+
+## 🧠 Lo que hago...
+
+- 🌐 Desarrollo páginas Web Front-End.
+- 💻 Actualmtente me encuentro estudiando en Senati.
+- 🔎 Experimento cosas nuevas en base a tecnologías.
+- 🎞️ Me dedico a hacer crecer mis redes sociales.
+
 
 ###
 
