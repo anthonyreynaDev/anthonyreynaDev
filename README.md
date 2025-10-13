@@ -51,9 +51,10 @@ Apasionado desarrollador Web Front-End que le gusta crear páginas Web con una b
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anthonyreynaDev/anthonyreynaDev/output/snake.svg" alt="Snake animation" />
+<div align="center">
+    
+  ![snake gif](https://github.com/anthonyreynaDev/anthonyreynaDev/blob/output/github-snake-dark.svg)
+</div>
 
 ###
 
