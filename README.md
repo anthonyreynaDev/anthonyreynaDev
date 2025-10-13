@@ -1,4 +1,5 @@
-<h2 align="left">Hola👋! Soy Anthony Reyna, estudiante de ingeniería de software 💻</h2>
+# Hola! 👋 Soy Anthony Reyna, estudiante de Ing. de Software
+
 
 ###
 
